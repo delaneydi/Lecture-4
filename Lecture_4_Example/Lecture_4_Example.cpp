@@ -17,6 +17,7 @@ int main()
 	cout << ptr1 << endl;
 	cout << &i << endl;
 	cout << &ptr1 << endl;
+	cout << "Hello World" << endl;
 
 	return 0;
 }
